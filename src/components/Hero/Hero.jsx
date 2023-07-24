@@ -3,7 +3,7 @@ import SearchInput from "../Navbar/SearchInput";
 const Hero = () => {
   return (
     <section className="showcase">
-      <video src="/public/banner.mp4" muted loop autoPlay></video>
+      <video src="/banner.mp4" muted loop autoPlay></video>
       <div className="text relative z-30 text-white text-center md:text-start px-3 md:p-24 pt-28">
         <h2 className="text-5xl md:text-7xl uppercase font-extrabold ">
           Discover Your
