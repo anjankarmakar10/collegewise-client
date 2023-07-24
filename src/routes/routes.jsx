@@ -4,11 +4,13 @@ import Home from "../pages/Home/Home";
 import Login from "../pages/Login/Login";
 import SignUp from "../pages/SignUp/SignUp";
 import Profile from "../pages/Profile/Profile";
+import NotFound from "../pages/Error/NotFound";
 
 const routes = createBrowserRouter([
   {
     path: "/",
     element: <App />,
+    errorElement: <NotFound />,
     children: [
       {
         index: true,
