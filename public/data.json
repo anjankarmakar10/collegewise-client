@@ -1,0 +1,306 @@
+[
+  {
+    "id": 1,
+    "name": "Teneese University",
+    "image": "https://media.gettyimages.com/id/1323420737/photo/aerial-over-north-carolina-central-university-in-the-spring.jpg?s=612x612&w=0&k=20&c=KgNudHx1-Dnf7PaZprc6LgevoyjCUt2LV-ca2KkDcH0=",
+    "admissionDates": "August 2023",
+    "events": ["Freshers' Party", "Annual Sports Meet", "Tech Fest"],
+    "researchHistory": "Established in 1975, renowned for scientific research.",
+    "sports": ["Football", "Basketball", "Badminton"],
+    "details": {
+      "about": "Teneese University is a leading institution in higher education...",
+      "admissionProcess": "To get admission, candidates need to fill out the online application...",
+      "facilities": {
+        "sports": "The campus has state-of-the-art sports facilities...",
+        "library": "A well-stocked library with a vast collection of books...",
+        "labs": "Fully equipped research labs..."
+      }
+    },
+    "reviews": [
+      {
+        "user": "JohnDoe",
+        "rating": 4.5,
+        "comment": "Great campus and faculty!"
+      },
+      {
+        "user": "JaneSmith",
+        "rating": 5,
+        "comment": "Loved the vibrant atmosphere!"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Bostra College",
+    "image": "https://media.gettyimages.com/id/157505397/photo/quandrangle-lawn-at-the-university-of-washington.jpg?s=612x612&w=0&k=20&c=y1TIffgQaLN8AoxZCExNxl_wKoeMq9xIy3_kb8XY2Yg=",
+    "admissionDates": "July 2023",
+    "events": ["Cultural Fest", "Inter-College Sports Meet", "Tech Expo"],
+    "researchHistory": "A pioneer in arts and social sciences research.",
+    "sports": ["Cricket", "Volleyball", "Table Tennis"],
+    "details": {
+      "about": "Bostra College is dedicated to fostering creativity and critical thinking...",
+      "admissionProcess": "Prospective students can apply online or through our admissions office...",
+      "facilities": {
+        "sports": "The college offers various sports facilities for students to stay active...",
+        "library": "A specialized library with a vast collection of art and literature...",
+        "labs": "Well-equipped labs for research and experimentation..."
+      }
+    },
+    "reviews": [
+      {
+        "user": "AliceWonderland",
+        "rating": 4.2,
+        "comment": "Incredible arts programs!"
+      },
+      {
+        "user": "BobSmith",
+        "rating": 4.8,
+        "comment": "Fantastic support from faculty!"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Sunset State University",
+    "image": "https://media.gettyimages.com/id/173598452/photo/university-in-autumn.jpg?s=612x612&w=0&k=20&c=jQqpZuTZ6qXIfWqnCW5nqlExJZO0PO47L-ZiaE8jIk0=.jpg",
+    "admissionDates": "September 2023",
+    "events": ["Music Festival", "Science Fair", "Job Fair"],
+    "researchHistory": "Pioneering breakthroughs in environmental science.",
+    "sports": ["Swimming", "Tennis", "Track & Field"],
+    "details": {
+      "about": "Sunset State University is committed to academic excellence...",
+      "admissionProcess": "Apply for admission through the university's official website...",
+      "facilities": {
+        "sports": "Modern sports complexes cater to a variety of athletic interests...",
+        "library": "Extensive collection of academic journals and research publications...",
+        "labs": "Cutting-edge labs facilitating innovative scientific research..."
+      }
+    },
+    "reviews": [
+      {
+        "user": "EveAnderson",
+        "rating": 4.7,
+        "comment": "Excellent campus environment and friendly staff!"
+      },
+      {
+        "user": "JackJohnson",
+        "rating": 4,
+        "comment": "Diverse student community with plenty of extracurricular activities!"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Techville Institute of Technology",
+    "image": "https://media.gettyimages.com/id/592850265/photo/lawns-plaza-and-academic-buildings-new-york.jpg?s=612x612&w=0&k=20&c=JvnRJyTYQ4ECKMjA6PBRIYNYBCzDphxFk7OLy3pBSwc=",
+    "admissionDates": "October 2023",
+    "events": ["Tech Expo", "Hackathon", "Job Fair"],
+    "researchHistory": "Leading innovations in computer science and technology.",
+    "sports": ["Esports", "Robotics", "Gaming Club"],
+    "details": {
+      "about": "Techville Institute of Technology offers cutting-edge tech education...",
+      "admissionProcess": "Prospective tech enthusiasts can apply online or via email...",
+      "facilities": {
+        "sports": "State-of-the-art esports arena for gaming enthusiasts...",
+        "library": "Tech-centric library with access to vast digital resources...",
+        "labs": "Advanced labs for hands-on experimentation and projects..."
+      }
+    },
+    "reviews": [
+      {
+        "user": "TechieTom",
+        "rating": 4.9,
+        "comment": "Outstanding tech programs and skilled faculty!"
+      },
+      {
+        "user": "CodingCarla",
+        "rating": 4.5,
+        "comment": "The perfect place to unleash your inner techie!"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Greenwood College of Environmental Studies",
+    "image": "https://media.gettyimages.com/id/1198680156/photo/students-at-university-campus.jpg?s=612x612&w=0&k=20&c=Zt6Zu4t7YUW1aR7vwZdB3H5XwQNZi_RobwLLTSLLREw=",
+    "admissionDates": "November 2023",
+    "events": ["Eco-Fest", "Sustainability Symposium", "Field Trips"],
+    "researchHistory": "Promoting sustainability and eco-conscious research.",
+    "sports": ["Hiking Club", "Outdoor Yoga", "Environmental Cleanup Team"],
+    "details": {
+      "about": "Greenwood College fosters a passion for environmental stewardship...",
+      "admissionProcess": "Apply through the college's eco-friendly online application system...",
+      "facilities": {
+        "sports": "Amidst lush greenery, offering eco-friendly sports facilities...",
+        "library": "A green library promoting eco-conscious literature and knowledge...",
+        "labs": "Research centers dedicated to environmental conservation..."
+      }
+    },
+    "reviews": [
+      {
+        "user": "EcoWarrior",
+        "rating": 4.8,
+        "comment": "An eco-friendly haven with inspiring professors!"
+      },
+      {
+        "user": "NatureNerd",
+        "rating": 5,
+        "comment": "The place to make a positive impact on the planet!"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Aurora Academy of Arts",
+    "image": "https://media.gettyimages.com/id/681897159/photo/usa-washington-d-c-aerial-photograph-of-howard-university-campus.jpg?s=612x612&w=0&k=20&c=TjxvGRnNIKcWK0vhsU9qPrlTWvoEH0Q-o7RY3puSMl4=",
+    "admissionDates": "December 2023",
+    "events": ["Art Exhibition", "Drama Festival", "Workshops"],
+    "researchHistory": "Celebrating creativity and artistic expression.",
+    "sports": ["Painting Club", "Photography Society", "Dance Ensemble"],
+    "details": {
+      "about": "Aurora Academy nurtures artistic talent and fosters imagination...",
+      "admissionProcess": "Prospective artists can apply through a portfolio submission...",
+      "facilities": {
+        "sports": "Inspiring studios for various art forms and creative expression...",
+        "library": "An artistic library with a vast collection of art history and techniques...",
+        "labs": "Specialized labs for digital art and multimedia exploration..."
+      }
+    },
+    "reviews": [
+      {
+        "user": "CreativeSoul",
+        "rating": 4.7,
+        "comment": "A haven for artists to hone their craft!"
+      },
+      {
+        "user": "ArtisticSpirit",
+        "rating": 4.9,
+        "comment": "A place where creativity knows no bounds!"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Liberty Law School",
+    "image": "https://media.gettyimages.com/id/1176155702/photo/ancient-buildings-at-cambridge-university-cambride-uk.jpg?s=612x612&w=0&k=20&c=GgXwehwHw6l7KXgset9k36YAgI6Ja6J8bYhi_snR6lg=",
+    "admissionDates": "January 2024",
+    "events": ["Moot Court Competitions", "Legal Symposiums", "Mock Trials"],
+    "researchHistory": "Empowering legal minds and championing justice.",
+    "sports": ["Debate Club", "Legal Aid Society", "Football"],
+    "details": {
+      "about": "Liberty Law School prepares students for a career in law...",
+      "admissionProcess": "Aspiring lawyers can apply through a rigorous admission process...",
+      "facilities": {
+        "sports": "A perfect blend of intellectual pursuits and sportsmanship...",
+        "library": "A vast legal library supporting academic and research endeavors...",
+        "labs": "Moot courtrooms for practical legal training and experience..."
+      }
+    },
+    "reviews": [
+      {
+        "user": "JusticeSeeker",
+        "rating": 4.5,
+        "comment": "A law school committed to making a difference!"
+      },
+      {
+        "user": "LawStudent2023",
+        "rating": 4.8,
+        "comment": "An exceptional law school experience with accomplished faculty!"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Medico Institute of Health Sciences",
+    "image": "https://media.gettyimages.com/id/1456749194/photo/college-students-arriving-for-night-school.jpg?s=612x612&w=0&k=20&c=qz7RMdg4cgioWYuKIQ0r4iZ7itIbTrhORTcr-y0K2Rk=",
+    "admissionDates": "February 2024",
+    "events": [
+      "Medical Conferences",
+      "Health Awareness Campaigns",
+      "Clinical Rotations"
+    ],
+    "researchHistory": "Advancing medical knowledge and compassionate care.",
+    "sports": ["MedicoFit Club", "Yoga & Meditation", "Table Tennis"],
+    "details": {
+      "about": "Medico Institute fosters skilled healthcare professionals...",
+      "admissionProcess": "Prospective medical students can apply through a dedicated portal...",
+      "facilities": {
+        "sports": "Healthy body, healthy mind - promoting wellness among students...",
+        "library": "A medical library housing a vast collection of medical literature...",
+        "labs": "State-of-the-art labs for hands-on medical training..."
+      }
+    },
+    "reviews": [
+      {
+        "user": "MedStudent101",
+        "rating": 4.6,
+        "comment": "A medical school with a caring and knowledgeable faculty!"
+      },
+      {
+        "user": "HealthEnthusiast",
+        "rating": 4.9,
+        "comment": "A nurturing environment for future healthcare heroes!"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "TechEdu Institute",
+    "image": "https://media.gettyimages.com/id/1024319742/photo/university-of-arizona.jpg?s=612x612&w=0&k=20&c=jz-mq8eNuhfcWRx4KClwF6TwlYNy0mhnKNoP5gOchw4=",
+    "admissionDates": "March 2024",
+    "events": ["Tech Symposium", "Coding Competitions", "Industry Seminars"],
+    "researchHistory": "Fueling innovation through technology education.",
+    "sports": ["TechGeeks Club", "Robotics Team", "Basketball"],
+    "details": {
+      "about": "TechEdu Institute empowers students with cutting-edge tech skills...",
+      "admissionProcess": "Tech enthusiasts can apply online or through coding challenges...",
+      "facilities": {
+        "sports": "Fostering tech innovation with sports to unwind and relax...",
+        "library": "A digital library with a vast collection of tech resources...",
+        "labs": "Advanced tech labs for hands-on experiments and projects..."
+      }
+    },
+    "reviews": [
+      {
+        "user": "CodeNinja",
+        "rating": 4.7,
+        "comment": "An institute that ignites a passion for technology!"
+      },
+      {
+        "user": "TechMaster",
+        "rating": 4.8,
+        "comment": "A tech paradise with brilliant mentors!"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Global Language Academy",
+    "image": "https://media.gettyimages.com/id/1449514453/photo/the-university-of-alabama-at-tuscaloosa.jpg?s=612x612&w=0&k=20&c=VfZSMjVIH2GoQmTtmlkxxIx7gHUqxF_Da3c5kW9gK84=",
+    "admissionDates": "April 2024",
+    "events": ["Language Fest", "Cultural Exchanges", "Language Workshops"],
+    "researchHistory": "Promoting linguistic diversity and cross-cultural communication.",
+    "sports": ["Language Club", "Debate Society", "Volleyball"],
+    "details": {
+      "about": "Global Language Academy celebrates the beauty of language and culture...",
+      "admissionProcess": "Language enthusiasts can apply online and showcase language skills...",
+      "facilities": {
+        "sports": "An arena where diverse languages and sports converge...",
+        "library": "A language-focused library with a collection of literary works...",
+        "labs": "Interactive language labs for immersive language learning..."
+      }
+    },
+    "reviews": [
+      {
+        "user": "PolyglotAdventurer",
+        "rating": 4.9,
+        "comment": "A language lover's haven with passionate teachers!"
+      },
+      {
+        "user": "CulturalExplorer",
+        "rating": 4.7,
+        "comment": "An academy that celebrates the world's linguistic tapestry!"
+      }
+    ]
+  }
+]
