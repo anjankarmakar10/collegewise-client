@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import { useColleges } from "../../hooks/useColleges";
-import Collage from "../Card/Collage";
+import College from "../Card/College";
 
 const FeaturesCollege = () => {
   const [data] = useColleges();
@@ -13,12 +13,12 @@ const FeaturesCollege = () => {
             Popular Colleges
           </h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-            {data?.slice(0, 3).map((college) => (
-              <Collage key={college.id} college={college} />
+            {data?.slice(0, 3)?.map((college) => (
+              <College key={college.id} college={college} />
             ))}
           </div>
         </div>
-        <Link className="w-fit mx-auto my-6" to="/collages">
+        <Link className="w-fit mx-auto my-6" to="/colleges">
           <button className="btn btn-neutral button ">More</button>
         </Link>
       </section>

@@ -5,7 +5,8 @@ import Login from "../pages/Login/Login";
 import SignUp from "../pages/SignUp/SignUp";
 import Profile from "../pages/Profile/Profile";
 import NotFound from "../pages/Error/NotFound";
-import Collages from "../pages/Collages/Collages";
+import Colleges from "../pages/Colleges/Colleges";
+import CollegeDetails from "../pages/CollageDetails/CollegeDetails";
 
 const routes = createBrowserRouter([
   {
@@ -22,8 +23,12 @@ const routes = createBrowserRouter([
         element: <Profile />,
       },
       {
-        path: "/collages",
-        element: <Collages />,
+        path: "/colleges",
+        element: <Colleges />,
+      },
+      {
+        path: "/colleges/:id",
+        element: <CollegeDetails />,
       },
     ],
   },

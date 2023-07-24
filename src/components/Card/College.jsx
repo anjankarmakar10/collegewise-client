@@ -1,4 +1,6 @@
-const Collage = ({ college }) => {
+import { Link } from "react-router-dom";
+
+const College = ({ college }) => {
   return (
     <article className="p-6 bg-white shadow-md rounded-md">
       <img
@@ -15,8 +17,10 @@ const Collage = ({ college }) => {
         Research History: {college?.researchHistory}
       </p>
       <p className="text-gray-600 mb-4">Sports: {college?.sports.join(", ")}</p>
-      <button className="btn btn-primary button">Details</button>
+      <Link to={`colleges/${college?.id}`}>
+        <button className="btn btn-primary button">Details</button>
+      </Link>
     </article>
   );
 };
-export default Collage;
+export default College;
