@@ -8,7 +8,7 @@ const Navbar = () => {
   const { user } = useAuth();
 
   return (
-    <div className="fixed left-0 right-0 top-0 z-50 bg-black opacity-50">
+    <div className="fixed left-0 right-0 top-0 z-50 bg-black opacity-70 ">
       <nav className="navbar container mx-auto px-2">
         <div className="navbar-start">
           <MobileMenuList />

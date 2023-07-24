@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import { useColleges } from "../../hooks/useColleges";
 import Collage from "../Card/Collage";
 
@@ -17,9 +18,9 @@ const FeaturesCollege = () => {
             ))}
           </div>
         </div>
-        <button className="btn btn-neutral button w-fit mx-auto my-6">
-          More
-        </button>
+        <Link className="w-fit mx-auto my-6" to="/collages">
+          <button className="btn btn-neutral button ">More</button>
+        </Link>
       </section>
     </div>
   );

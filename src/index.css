@@ -68,3 +68,8 @@
   z-index: 10;
   mix-blend-mode: multiply;
 }
+
+.active {
+  border-bottom: 2px solid lightgreen;
+  width: fit-content;
+}

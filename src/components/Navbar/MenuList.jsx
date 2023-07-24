@@ -8,7 +8,9 @@ const MenuList = () => {
         <NavLink to={"/"}>
           <MenuItem>Home</MenuItem>
         </NavLink>
-        <MenuItem>Colleges</MenuItem>
+        <NavLink to="/collages">
+          <MenuItem>Colleges</MenuItem>
+        </NavLink>
         <MenuItem>Admission</MenuItem>
         <MenuItem>My Collage</MenuItem>
       </ul>
