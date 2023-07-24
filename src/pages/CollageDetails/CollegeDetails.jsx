@@ -27,6 +27,18 @@ const CollegeDetails = () => {
         <div className="container mx-auto px-4">
           <h2 className="text-2xl font-bold mb-6">Admission Process</h2>
           <p className="text-gray-600">{college?.details?.admissionProcess}</p>
+          <div className="form-control w-80 mt-8">
+            <div className="relative">
+              <input
+                type="text"
+                placeholder="Enter your email"
+                className="input input-bordered w-full pr-16"
+              />
+              <button className="btn btn-primary absolute top-0 right-0 rounded-l-none">
+                Submit
+              </button>
+            </div>
+          </div>
         </div>
       </section>
 
