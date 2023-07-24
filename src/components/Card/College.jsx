@@ -17,7 +17,7 @@ const College = ({ college }) => {
         Research History: {college?.researchHistory}
       </p>
       <p className="text-gray-600 mb-4">Sports: {college?.sports.join(", ")}</p>
-      <Link to={`colleges/${college?.id}`}>
+      <Link to={`/colleges/${college?.id}`}>
         <button className="btn btn-primary button">Details</button>
       </Link>
     </article>

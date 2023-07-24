@@ -11,10 +11,10 @@ const CollegeDetails = () => {
     <div className="bg-white">
       {/* College Banner */}
       <div
-        className="h-64 bg-cover bg-center bg-gray-600 pt-28"
+        className="h-96 bg-cover bg-center bg-gray-600 flex "
         style={{ backgroundImage: `url(${college?.image})` }}
       >
-        <div className="container mx-auto px-4 h-full ">
+        <div className="container mx-auto px-4 h-fit mt-auto pb-20">
           <h1 className="text-white text-4xl font-semibold">{college?.name}</h1>
           <h6 className="text-white text-xl font-medium">
             {college?.details?.about}
